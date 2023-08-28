@@ -79,27 +79,22 @@ export default {
         {
           icon: 'mdi-monitor',
           title: 'Ứng dụng',
-          to: '/inspire',
+          to: '/application',
         },
         {
           icon: 'mdi-database',
           title: 'Kho lưu trữ',
-          to: '/inspire',
-        },
-        {
-          icon: 'mdi-alert-circle-check',
-          title: 'Heal-check',
-          to: '/inspire',
+          to: '/storage_management',
         },
         {
           icon: 'mdi-poll',
           title: 'Báo cáo thống kê',
-          to: '/inspire',
+          to: '/statistical',
         },
         {
           icon: 'mdi-cogs',
           title: 'Core Engine',
-          to: '/inspire',
+          to: '/core_engine',
         },
       ],
       miniVariant: false,

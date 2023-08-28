@@ -1,15 +1,7 @@
 <template>
   <v-card width="100%">
     <v-card-title>
-      Quản lý tổ chức
-      <v-spacer />
-      <v-text-field
-        v-model="search"
-        append-icon="mdi-magnify"
-        label="Tìm kiếm"
-        single-line
-        hide-details
-      />
+      <p class="text-high-emphasis text-h6">Quản lý tổ chức</p>
     </v-card-title>
     <v-data-table :headers="headers" :items="desserts" :search="search" />
   </v-card>
