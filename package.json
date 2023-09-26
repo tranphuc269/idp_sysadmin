@@ -38,7 +38,7 @@
     "collect.js": "^4.34.3",
     "core-js": "^3.23.2",
     "lodash": "^4.17.21",
-    "nuxt": "^2.15.8",
+    "nuxt": "^3.7.4",
     "nuxt-axios-cancel": "^0.0.2",
     "nuxt-property-decorator": "^2.9.1",
     "nuxt-vuex-router-sync": "^0.0.3",
